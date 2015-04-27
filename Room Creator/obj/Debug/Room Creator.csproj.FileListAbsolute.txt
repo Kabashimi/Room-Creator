@@ -1,0 +1,284 @@
+C:\Users\ps\Desktop\Room Creator\bin\Debug\Room Creator.exe.config
+C:\Users\ps\Desktop\Room Creator\bin\Debug\Room Creator.exe
+C:\Users\ps\Desktop\Room Creator\bin\Debug\Room Creator.pdb
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+C:\Users\ps\Desktop\Room Creator\obj\Debug\MainWindow.baml
+C:\Users\ps\Desktop\Room Creator\obj\Debug\MainWindow.g.cs
+C:\Users\ps\Desktop\Room Creator\obj\Debug\App.g.cs
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator.g.resources
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator.exe
+C:\Users\ps\Desktop\Room Creator\obj\Debug\Room Creator.pdb
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.exe.config
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.exe
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.pdb
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.exe
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.pdb
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\MainWindow.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\MainWindow.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\App.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.g.resources
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_Content.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.exe.config
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.exe
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.pdb
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.exe
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Room Creator.pdb
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\MainWindow.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\MainWindow.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\App.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_Content.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.g.resources
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+E:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.g.cs
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeDARC.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeLIGHT.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\Rafal_Rogoda\Resources\Metal.png
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\bin\Debug\pbrewczynski\Textures\aluminium.jpg
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\pbrewczynski\PBWindow.baml
+G:\rok 2013 - 2014\SPEC klasa 4\4IC\Room Creator\obj\Debug\pbrewczynski\PBWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Room Creator.exe.config
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator.exe
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator.pdb
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\pbrewczynski\Textures\aluminium.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeDARC.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeLIGHT.jpg
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Rafal_Rogoda\Resources\Metal.png
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Room Creator.exe
+C:\Users\4ic1\Desktop\Room Creator\bin\Debug\Room Creator.pdb
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\MainWindow.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\pbrewczynski\PBWindow.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\MainWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\pbrewczynski\PBWindow.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\App.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator_Content.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator.g.resources
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+C:\Users\4ic1\Desktop\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe.config
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.exe
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.pdb
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\pbrewczynski\Textures\aluminium.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeDARC.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeLIGHT.jpg
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\Metal.png
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe
+F:\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.pdb
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\App.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_Content.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.g.resources
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+F:\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe.config
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.exe
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.pdb
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\pbrewczynski\Textures\aluminium.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeDARC.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeLIGHT.jpg
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\Metal.png
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.pdb
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\App.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_Content.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.g.resources
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+G:\New folder\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe.config
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.exe
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.pdb
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood1.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Adam_Jasiolek\Resources\wood2.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\cos1.wav
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\drewno.png
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Hubert_Drogosz\Resources\katy.wav
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\dark_wood_texture.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\light_wood_texture.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\metal_texture.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\plastic_texture.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Maciej_Galos\Resources\stone_texture.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\pbrewczynski\Textures\aluminium.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeDARC.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\LampshadeLIGHT.jpg
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Rafal_Rogoda\Resources\Metal.png
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.exe
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\bin\Debug\Room Creator.pdb
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csprojResolveAssemblyReference.cache
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_Dictionary1.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGMyResourceDictionary.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Hubert_Drogosz\HiFiWindow.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Jan_dudek\JDWindow.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\kamil_florczyk\PSWindow.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\MainWindow.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\pbrewczynski\PBWindow.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Rafal_Rogoda\WindowSide.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\App.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_Content.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.cache
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator_MarkupCompile.lref
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Adam_Jasiolek\AJ_ChairModel.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Maciej_Galos\MGWindow1.baml
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.g.resources
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room_Creator.Properties.Resources.resources
+F:\Nowy folder (4)\Nowy folder (4)\Nowy folder (2)\Specki2012-13\Room Creator\obj\Debug\Room Creator.csproj.GenerateResource.Cache
+C:\Users\Jan\Desktop\Room Creator\Room Creator\bin\Debug\Room Creator.exe.config
+C:\Users\Jan\Desktop\Room Creator\Room Creator\obj\Debug\Room Creator.exe
+C:\Users\Jan\Desktop\Room Creator\Room Creator\obj\Debug\Room Creator.pdb
